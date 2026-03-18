@@ -1,6 +1,8 @@
 # Email Footprint
 
-A secure, privacy-first single-page web app that infers which sites may be linked to an email address using breach data and public sources. No signup required. Session-only. Built with Next.js 14, TypeScript, Tailwind CSS.
+A secure, privacy-first single-page web app that infers which sites may be linked to an email address using breach data and public sources.
+
+**[GitHub Repository](https://github.com/kale70328/email-footprint)** | **[Live Demo (Vercel)](https://email-footprint-kale70328.vercel.app)** (Pending Setup)
 
 ## Features
 
